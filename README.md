@@ -1,2 +1,2 @@
 # my-first-blog
-Django 예제 실습
+# PsyBus Self Camp Django 예제 실습
